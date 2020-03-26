@@ -1,3 +1,5 @@
 # Practico1
 
-Un cambio lindo y legible.
+Un cambio lindo, legible y editado.
+
+Un cambio diferente :)
